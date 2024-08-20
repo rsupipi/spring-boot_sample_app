@@ -1,1 +1,1 @@
-# spring-boot_sample_app
+This repo contains the sample springBoot and the Postman collection
